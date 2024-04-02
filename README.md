@@ -4,7 +4,7 @@ Hello , to use my pinterest scrapper on your own you have to change a few things
 
 -chrome.exe location PC
 
--Chromedriver.exe locatio on your PC
+-Chromedriver.exe location on your PC
 
 -Login data email and password
 
