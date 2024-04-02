@@ -10,7 +10,11 @@ Hello , to use my pinterest scrapper on your own you have to change a few things
 
 -location of folder with files
 
+git clone https://github.com/XEMilX/Pinterest-Scraper
 
+cd Pinterest-Scraper
+
+pip install -r requirements.txt
 
 
 Have fun :D
